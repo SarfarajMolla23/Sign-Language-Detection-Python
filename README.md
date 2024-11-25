@@ -1,4 +1,4 @@
-# Sign Language Detection Python Opencv
+# Sign Language Detection 
 
 Created a American Sign Langiage(ASL) Detection using Pyhton , opencv, cvzone and numpy
 
