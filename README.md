@@ -3,6 +3,7 @@
 Created a American Sign Langiage(ASL) Detection using Pyhton , opencv, cvzone and numpy
 
 
+Demo Images:
 
 ![Screenshot 2024-11-25 132015](https://github.com/user-attachments/assets/fa05f08c-fd95-4dbb-a3b2-102e20db0da7)
 ![Screenshot 2024-11-25 132439](https://github.com/user-attachments/assets/aa30f5e0-b7a5-49a5-b663-80a8b3704694)
