@@ -1,6 +1,6 @@
 # Sign Language Detection 
 
-Created a American Sign Langiage(ASL) Detection using Pyhton , opencv, cvzone and numpy
+Created a American Sign Language(ASL) Detection using Pyhton , opencv, cvzone and numpy
 
 
 Demo Images:
